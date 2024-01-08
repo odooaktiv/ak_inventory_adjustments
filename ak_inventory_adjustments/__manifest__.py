@@ -19,7 +19,7 @@
     "website": "http://www.aktivsoftware.com",
     "author": "Aktiv Software",
     "description": """Custom Inventory Adjustments for multi products""",
-    "license": "OPL-1",
+    "license": "AGPL-3",
     "depends": ["stock", "account_accountant", "web_domain_field"],
     "data": [
         "security/ir.model.access.csv",
